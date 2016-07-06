@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 testですtest
+=======
+testっすtest〜〜〜〜
+>>>>>>> origin/master
