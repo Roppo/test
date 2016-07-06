@@ -4,3 +4,6 @@ testですtest
 =======
 testっすtest〜〜〜〜
 >>>>>>> origin/master
+
+テストです！
+編集できてますか〜？
